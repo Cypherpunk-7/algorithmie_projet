@@ -1,0 +1,26 @@
+Name,Price,Quantity,Id
+Pain,10.0,29,5
+Chocolatine,2.5,40,3
+Eclair,4.0,25,4
+Tarte aux Pommes,15.0,12,5
+Sandwich Jambon,6.0,30,1
+Salade César,9.0,15,3
+Pizza Margherita,12.0,18,4
+Coca-Cola,2.0,100,5
+Eau Minérale,1.0,150,1
+Café,2.0,200,3
+Thé,2.5,120,4
+Yaourt Nature,1.5,90,5
+Fromage Blanc,2.0,75,1
+Bananes,3.0,65,3
+Pommes,2.5,85,4
+Carottes,2.0,95,5
+Jambon,5.0,45,3
+Saumon Fumé,15.0,20,4
+Pâtes,2.0,110,5
+Céréales,4.0,60,3
+Muesli,5.0,45,4
+Chips,2.5,75,5
+Pomme,1.0,1,2
+Arbre,2,5,2
+Fraise,3,2,2
